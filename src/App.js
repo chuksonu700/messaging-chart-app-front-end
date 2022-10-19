@@ -48,4 +48,8 @@ function App(){
     )
 }
 
+const newApp = ()=>{
+    console.log("start MObile View");
+}
+
 export default App;
